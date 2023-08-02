@@ -2,7 +2,7 @@
 
 ## Working agreement
 
-The main branch contains "ready" work, work-in-progress should be pushed to branches with named `username/topic`.
+The main branch contains "ready" work, work-in-progress should be pushed to branches with named `user/<username>/topic` e.g., `user/amit/falcon`
 
 ## Evaluation of LLMs:
 - Metrics:
